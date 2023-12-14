@@ -53,3 +53,4 @@ if file1 is not None and file2 is not None:
      st.write(mismatch_vals)
 else:
     st.warning("Cannot perform the merge as one or both files are missing.")
+    
